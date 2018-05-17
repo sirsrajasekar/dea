@@ -1,62 +1,62 @@
 [
     "Name": "DEAContext",
-    "Epsilon": 0.000001,
-    "NInputs": 1,
-    "NOutputs": 6,
+    "Epsilon": "0.000001",
+    "NInputs": "1",
+    "NOutputs": "6",
     "Variables": {
       "Congestion": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 0,
-        "VarIndex": 0,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 969.30522505007923
+        "Scale": "1.0",
+        "Index": "0",
+        "VarIndex": "0",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "969.30522505007923"
       },
       "Safety": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 1,
-        "VarIndex": 1,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 63.487809711239294
+        "Scale": "1.0",
+        "Index": "1",
+        "VarIndex": "1",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "63.487809711239294"
       },
       "Accessibility": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 2,
-        "VarIndex": 2,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 486.35440699524139
+        "Scale": "1.0",
+        "Index": "2",
+        "VarIndex": "2",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "486.35440699524139"
       },
       "Environmental Quality": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 3,
-        "VarIndex": 3,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 69.430440566121675
+        "Scale": "1.0",
+        "Index": "3",
+        "VarIndex": "3",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "69.430440566121675"
       },
       "Economic Development": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 4,
-        "VarIndex": 4,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 97.818171278359159
+        "Scale": "1.0",
+        "Index": "4",
+        "VarIndex": "4",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "97.818171278359159"
       },
       "Land Use": {
         "Type": "O",
-        "Scale": 1.0,
-        "Index": 5,
-        "VarIndex": 5,
-        "MinWeightActual": 0.000001,
-        "MaxWeightActual": 90.085465242521792
+        "Scale": "1.0",
+        "Index": "5",
+        "VarIndex": "5",
+        "MinWeightActual": "0.000001",
+        "MaxWeightActual": "90.085465242521792"
       },
       "Cost": {
         "Type": "I",
-        "Scale": 0.000001,
-        "Index": 0,
-        "VarIndex": 6
+        "Scale": "0.000001",
+        "Index": "0",
+        "VarIndex": "6"
       }
     },
     "Constraints": [
@@ -88,7 +88,7 @@
           208.61681751122893
         ],
         "RelativeEfficiency": 1.0000000000000002,
-        "Selected": true
+        "Selected": "true"
       },
       {
         "Name": "600 - Government Center Parkway Extension",
@@ -114,8 +114,8 @@
         "V": [
           31.804784775431187
         ],
-        "RelativeEfficiency": 1.0000000000000002,
-        "Selected": true
+        "RelativeEfficiency": "1.0000000000000002",
+        "Selected": "true"
       },
       {
         "Name": "520 - Lynch Mill Road & Altavista Elementary School",
@@ -141,7 +141,7 @@
         "V": [
           664.65497760112726
         ],
-        "RelativeEfficiency": 1.0,
-        "Selected": true
+        "RelativeEfficiency": "1.0",
+        "Selected": "true"
       }
 ]
