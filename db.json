@@ -1,5 +1,5 @@
 {
-  "dea": [
+  "dea": [{
     "Name": "DEAContext",
     "Epsilon": "0.000001",
     "NInputs": "1",
@@ -144,8 +144,8 @@
         ],
         "RelativeEfficiency": "1.0",
         "Selected": "true"
-      }
-  ],
+      }]
+  }],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
