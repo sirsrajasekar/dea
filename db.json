@@ -1,6 +1,6 @@
 [
     "Name": "DEAContext",
-    "Epsilon": 1E-06,
+    "Epsilon": 0.000001,
     "NInputs": 1,
     "NOutputs": 6,
     "Variables": {
