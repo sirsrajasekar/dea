@@ -1,4 +1,4 @@
-{.
+{
   "dea": [{
     "Name": "DEAContext",
     "Epsilon": "0.000001",
